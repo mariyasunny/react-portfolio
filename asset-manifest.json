@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.4f4a3bb3.css",
+    "main.js": "/react-portfolio/static/js/main.bf401554.js",
+    "static/media/background.mp4": "/react-portfolio/static/media/background.95d6477ee4b40ab65a74.mp4",
+    "static/media/image1.png": "/react-portfolio/static/media/image1.43796f3c048b926af56d.png",
+    "static/media/kidsSeller.png": "/react-portfolio/static/media/kidsSeller.c8dc492c67201b4c12d5.png",
+    "static/media/kidsShop.png": "/react-portfolio/static/media/kidsShop.9d03a3de533d2db65b01.png",
+    "static/media/kidsYt.png": "/react-portfolio/static/media/kidsYt.4a4e9c5e73258e724873.png",
+    "static/media/kidsHome.png": "/react-portfolio/static/media/kidsHome.ff39b3bab91bbffb0c01.png",
+    "static/media/kidContact.png": "/react-portfolio/static/media/kidContact.3733433a2c36f7ddc8d8.png",
+    "static/media/bg2.jpg": "/react-portfolio/static/media/bg2.ff78e1383bd3f8759f88.jpg",
+    "static/media/image8.png": "/react-portfolio/static/media/image8.f2fd89a3da643021cbe8.png",
+    "static/media/image7.png": "/react-portfolio/static/media/image7.09eae449fa4eaad7cc9b.png",
+    "static/media/image3.png": "/react-portfolio/static/media/image3.c2851f5a1fc44fdd5d55.png",
+    "static/media/image2.png": "/react-portfolio/static/media/image2.26e92007afa94729209b.png",
+    "static/media/image4.png": "/react-portfolio/static/media/image4.86a26c528f9e46abf32d.png",
+    "static/media/image9.png": "/react-portfolio/static/media/image9.af90fa931be420504c47.png",
+    "static/media/MS.png": "/react-portfolio/static/media/MS.9ca3b683a5333a301578.png",
+    "static/media/image6.png": "/react-portfolio/static/media/image6.a2f80464bb267a4e69f3.png",
+    "static/media/image5.png": "/react-portfolio/static/media/image5.29ff8e86a449177514b6.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.4f4a3bb3.css.map": "/react-portfolio/static/css/main.4f4a3bb3.css.map",
+    "main.bf401554.js.map": "/react-portfolio/static/js/main.bf401554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4a3bb3.css",
+    "static/js/main.bf401554.js"
+  ]
+}
